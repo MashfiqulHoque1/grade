@@ -1,0 +1,39 @@
+body{
+    background-color: dodgerblue;
+}
+
+.div1{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.para1{
+    display: flex;
+    text-align: center;
+}
+
+.border{
+    background-color: thistle;
+    box-shadow: 2px 4px gray;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 51px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+.p1{
+    text-align: center;
+    font-size: xx-large;
+    color: dodgerblue;
+}
+
+.col2{
+    margin-left: 99px;
+}
+.p2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bold;
+}
